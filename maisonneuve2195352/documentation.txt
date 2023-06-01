@@ -1,7 +1,7 @@
 TP1 - Laravel - CRUD
 Matricule 2195352
 
-Lien Github: https://github.com/Camille-Busseau/cadriciel-tp1
+Lien Github: https://github.com/Camille-Busseau/cadriciel-tp1-laravel7x
 Lien WebDev: https://e2195352.cmaisonneuve.qc.ca/maisonneuve2195352
 
 Objectif : Créer une plateforme avec le framework Laravel et générer la base de données, les modèles, les contrôleurs et les factories via le terminal.
